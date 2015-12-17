@@ -3,7 +3,7 @@ Metrics/BlockNesting:
 
 Metrics/ClassLength:
   CountComments: false
-  Max: 125
+  Max: 127
 
 Metrics/PerceivedComplexity:
   Max: 8
